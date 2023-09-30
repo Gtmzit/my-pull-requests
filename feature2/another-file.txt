@@ -1,1 +1,2 @@
 this is another file in feature2
+another change to feature2
